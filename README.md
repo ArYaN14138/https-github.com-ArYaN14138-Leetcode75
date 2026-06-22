@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0904-fruit-into-baskets) |
+| [1189-maximum-number-of-balloons](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0424-longest-repeating-character-replacement) |
+| [1189-maximum-number-of-balloons](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0021-merge-two-sorted-lists) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
