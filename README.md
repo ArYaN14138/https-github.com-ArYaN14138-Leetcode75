@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0424-longest-repeating-character-replacement) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0058-length-of-last-word) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0066-plus-one) |
 ## Stack
