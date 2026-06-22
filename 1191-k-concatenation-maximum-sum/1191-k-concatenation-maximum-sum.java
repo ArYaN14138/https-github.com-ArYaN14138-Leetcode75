@@ -1,34 +1,24 @@
 class Solution {
+    public int kConcatenationMaxSum(int[] arr, int k) {       
+        int mod=1000000007;
+        int n=arr.length;
+        long presum=0,premax=0,sufsum=0,sufmax=0,cursum=0,curmax=0;
+        for(int i=0;i<n;i++){    
+ 
+            // prefix sum
+            presum+=arr[i];
+            premax=Math.max(premax,presum);
 
-    public int kConcatenationMaxSum(int[] arr, int k) {
+            //suffix sum
+            sufsum+=arr[n-1-i];
+            sufmax=Math.max(sufmax,sufsum);
+           
+            //Kadane's Algorithm
+            cursum=Math.max(0,cursum)+arr[i];
+            curmax=Math.max(curmax,cursum);
 
-        long mod = 1000000007L;
-
-        long totalSum = 0;
-        for (int num : arr) {
-            totalSum += num;
         }
-
-        long curr = 0;
-        long maxSum = 0;
-
-        int times = (k == 1) ? 1 : 2;
-
-        for (int i = 0; i < times * arr.length; i++) {
-
-            curr += arr[i % arr.length];
-
-            if (curr < 0) {
-                curr = 0;
-            }
-
-            maxSum = Math.max(maxSum, curr);
-        }
-
-        if (k > 2 && totalSum > 0) {
-            maxSum += (long)(k - 2) * totalSum;
-        }
-
-        return (int)(maxSum % mod);
+        long max=Math.max(curmax,premax+sufmax+Math.max(0,presum*(k-2))); // prefix sum(presum) will be the sum of the complete array after entire traversal...
+        return (int)((k==1?curmax:max)%mod);
     }
 }
