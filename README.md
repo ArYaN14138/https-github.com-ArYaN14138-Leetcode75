@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/1004-max-consecutive-ones-iii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/1191-k-concatenation-maximum-sum) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
