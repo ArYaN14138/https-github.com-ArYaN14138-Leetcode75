@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/1004-max-consecutive-ones-iii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/1191-k-concatenation-maximum-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
