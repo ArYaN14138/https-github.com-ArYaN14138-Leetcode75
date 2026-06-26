@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0424-longest-repeating-character-replacement) |
 | [1189-maximum-number-of-balloons](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/1189-maximum-number-of-balloons) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0067-add-binary) |
 ## Stack
 |  |
 | ------- |
@@ -127,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/1189-maximum-number-of-balloons) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
