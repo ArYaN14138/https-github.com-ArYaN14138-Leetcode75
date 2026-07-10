@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0069-sqrtx) |
 ## Stack
 |  |
 | ------- |
