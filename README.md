@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0089-gray-code) |
 ## Stack
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0089-gray-code) |
 ## Simulation
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0051-n-queens) |
+| [0089-gray-code](https://github.com/ArYaN14138/https-github.com-ArYaN14138-Leetcode75/tree/master/0089-gray-code) |
 ## Greedy
 |  |
 | ------- |
